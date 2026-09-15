@@ -16,7 +16,7 @@ export function About() {
             </p>
             <p className="mt-6 max-w-xl text-base leading-relaxed text-muted md:text-lg">
               Since 2020 I have shipped fintech, blockchain, communications,
-              esports, and education products. These days I lead a frontend team
+              esports, and education products. These days I lead a Web team
               at Code Of Us, keep a hand in the full stack, and treat AI coding
               agents as part of a professional engineering practice — not a
               shortcut around it.

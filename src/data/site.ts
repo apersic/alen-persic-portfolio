@@ -2,7 +2,7 @@ export const site = {
   name: "Alen Peršić",
   firstName: "Alen",
   lastName: "Peršić",
-  role: "Frontend Team Lead",
+  role: "Web Team Lead",
   location: "Zagreb, Croatia",
   email: "megalen61@gmail.com",
   phone: "+385 95 355 5969",
@@ -11,7 +11,7 @@ export const site = {
   linkedin: "https://www.linkedin.com/in/alen-per%C5%A1i%C4%87-0343a91b3",
   github: "https://github.com/apersic",
   summary:
-    "I lead frontend teams and run products end to end — from planning and daily delivery through to client communication — while staying close to the code. Comfortable across Next.js, Java and Flutter, with AI-assisted development as part of the daily workflow.",
+    "I lead Web teams and run products end to end — from planning and daily delivery through to client communication — while staying close to the code. Comfortable across Next.js, Java and Flutter, with AI-assisted development as part of the daily workflow.",
 };
 
 export const highlights = [
@@ -79,12 +79,12 @@ export const work = [
 
 export const experience = [
   {
-    role: "Frontend Team Lead",
+    role: "Web Team Lead",
     company: "Code Of Us d.o.o.",
     location: "Zagreb",
     period: "Nov 2025 — Present",
     points: [
-      "Leading the frontend team, including regular 1-on-1s",
+      "Leading the Web team, including regular 1-on-1s",
       "Project lead on a large-scale Learning Management System — Jira, dailies, planning, and client communication",
       "Shipping full-stack features with Next.js and Java",
       "Building the iOS and Android apps of the same system in Flutter",

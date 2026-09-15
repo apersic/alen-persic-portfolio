@@ -65,7 +65,7 @@ export function Contact() {
           <p>
             © {new Date().getFullYear()} {site.name}
           </p>
-          <p>Zagreb · Frontend Team Lead</p>
+          <p>Zagreb · Web Team Lead</p>
         </footer>
       </div>
     </section>

@@ -1,6 +1,6 @@
 # Alen Peršić — Portfolio
 
-One-page personal site for [Alen Peršić](mailto:megalen61@gmail.com), Frontend Team Lead in Zagreb. Built with Next.js, Tailwind CSS, and Framer Motion.
+One-page personal site for [Alen Peršić](mailto:megalen61@gmail.com), Web Team Lead in Zagreb. Built with Next.js, Tailwind CSS, and Framer Motion.
 
 ```bash
 cd ~/Documents/Work/alen-persic-portfolio

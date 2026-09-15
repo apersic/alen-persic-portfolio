@@ -20,23 +20,23 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Alen Peršić — Frontend Team Lead",
+    default: "Alen Peršić — Web Team Lead",
     template: "%s — Alen Peršić",
   },
   description:
-    "Frontend Team Lead in Zagreb. Next.js, Java, Flutter, and AI-assisted delivery — from esports platforms with EA and ESL FACEIT to large-scale learning products.",
+    "Web Team Lead in Zagreb. Next.js, Java, Flutter, and AI-assisted delivery — from esports platforms with EA and ESL FACEIT to large-scale learning products.",
   keywords: [
     "Alen Peršić",
-    "Frontend Team Lead",
+    "Web Team Lead",
     "Next.js",
     "Zagreb",
     "Software Developer",
   ],
   authors: [{ name: "Alen Peršić" }],
   openGraph: {
-    title: "Alen Peršić — Frontend Team Lead",
+    title: "Alen Peršić — Web Team Lead",
     description:
-      "Portfolio of Alen Peršić, Frontend Team Lead based in Zagreb, Croatia.",
+      "Portfolio of Alen Peršić, Web Team Lead based in Zagreb, Croatia.",
     locale: "en_GB",
     type: "website",
   },
